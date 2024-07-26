@@ -1,6 +1,4 @@
 package miu.edu;
-
-import lombok.var;
 import miu.edu.model.Customer;
 
 import java.util.Arrays;
